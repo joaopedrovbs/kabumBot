@@ -1,0 +1,12 @@
+{
+  "name": "kabumBot",
+  "version": "1.0.0",
+  "description": "bot to check on kabum black friday prices",
+  "main": "track.js",
+  "author": "João Pedro Vilas Boas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11"
+  }
+}
