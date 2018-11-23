@@ -1,4 +1,4 @@
-#Kabum Bot
+# Kabum Bot
 
 Welcome to my bot to check if my products are back on `Kabum.com.br` black friday deals.
 
